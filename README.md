@@ -5,6 +5,7 @@ Projeto criando durante o curso de bootcamp do RocketSeat
 * jsonwebtoken
 * node 13
 * yarn 1.22
+* eslint
 
 ## Docker
 
