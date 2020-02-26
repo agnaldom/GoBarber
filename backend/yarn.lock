@@ -1521,11 +1521,6 @@ mute-stream@0.0.8:
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
-mutter@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/mutter/-/mutter-1.0.1.tgz#8bd9c98f6ea664eb3f202b2b9e39f343075316cd"
-  integrity sha1-i9nJj26mZOs/ICsrnjnzQwdTFs0=
-
 mz@^2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/mz/-/mz-2.7.0.tgz#95008057a56cafadc2bc63dde7f9ff6955948e32"
