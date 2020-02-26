@@ -14,6 +14,9 @@ Projeto criando durante o curso de bootcamp do RocketSeat
 
 `docker run --name database -e POSTGRES_PASSWORD=docker -p5432:5432 -d postgres`
 
+`docker run --name mongobarber -p 27017:27017 -d -t mongo`
+
+
 ## Squelize
 
 `$ yarn sequelize migration:create --name=create-user` Create table user
